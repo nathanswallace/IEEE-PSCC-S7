@@ -13,8 +13,8 @@ Nathan Wallace (n.wallace.us@ieee.org)
 Mike Dood
 
 ## To Do List: ##
-⋅⋅* Review the list on iMeet of Cyber Protective Functions and email me (or comment on iMeet file) with any suggestions/additions/comments. Deadline (03/29/2019). This is just our initial list.
-⋅⋅* Review the list (or list on iMeet) of Cyber Services and email me (or comment on iMeet file) with any suggestions/additions/comments. Deadline (03/29/2019) This is just our initial list.
+- Review the list on iMeet of Cyber Protective Functions and email me (or comment on iMeet file) with any suggestions/additions/comments. Deadline (03/29/2019). This is just our initial list.
+- Review the list (or list on iMeet) of Cyber Services and email me (or comment on iMeet file) with any suggestions/additions/comments. Deadline (03/29/2019) This is just our initial list.
 
 
 ## Next Face-to-Face Meetings: ##
