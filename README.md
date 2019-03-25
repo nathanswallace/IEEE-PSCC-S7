@@ -2,10 +2,11 @@
 # IEEE Std P2808 - Standard for Function Designations used in Electrical Power Systems for Cyber Services and Cybersecurity #
 
 ## Working Group S7 Current Status: ##
-Project Authorization Request (PAR) Approved till December 2023
+- Project Authorization Request (PAR) Approved till December 2023
+- Coming up with initial list of protective cybersecurity controls and cyber related services
 
 ## Scope: ##
-This standard applies to the definition of function designations for cyber related services, and cybersecurity controls and measures used to detect, identify, protect from, respond to, and recover from, security threats to electric power systems. These designations apply to the design, procurement, and operation of electric power systems. This standard also provides examples of how to represent systems using these designations.
+This standard applies to the definition of function designations for cyber related services, and cybersecurity controls and measures used to detect, identify, protect from, respond to, and recover from, security threats to electric power systems. These designations apply to the design, procurement, and operation of electric power systems. This standard also provides examples of how to represent systems using these designations. Basically, this standard will now give us a way to document cybersecurity and enabled cyber related services on engineering design drawings. This will help with design, procurement,  programming, commissioning, and incident response processes.
 
 ## Chair: ##
 Nathan Wallace (n.wallace.us@ieee.org)
